@@ -223,6 +223,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         onPressed: () => {_display("-")},
                       ),
                     ),
+                    //Git Status check
                     ButtonTheme(
                       minWidth: 80.0,
                       height: 30.0,
